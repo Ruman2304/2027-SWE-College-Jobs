@@ -39,6 +39,7 @@ This repository is a comprehensive list of Software Engineering jobs for college
 <!-- TABLE_FAANG_START -->
 | Company | Position | Location | Salary | Posting | Age |
 |---|---|---|---|---|---|
+| <a href="https://www.cloudflare.com/"><strong>Cloudeflare</strong></a> | Software Engineer: Intern Opportunities for University Students - Austin | Austin,TX | $30-50/hr | <a href="https://job-boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 0d |
 | <a href="https://www.microsoft.com"><strong>Microsoft</strong></a> | Software Engineer: Intern Opportunities for University Students - Atlanta | Atlanta, GA | $52/hr | <a href="https://apply.careers.microsoft.com/careers/job/1970393557008714"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 2d |
 | <a href="https://www.microsoft.com"><strong>Microsoft</strong></a> | Software Engineer: Intern Opportunity for University Students | California, MD | $52/hr | <a href="https://apply.careers.microsoft.com/careers/job/1970393557004819"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 2d |
 | <a href="https://www.amazon.com"><strong>Amazon</strong></a> | Software Development Engineer Intern - Summer 2027 - USA - Amazon Dedicated Cloud - ADC | Seattle, WA | $53/hr | <a href="https://www.amazon.jobs/jobs/10559746/apply"><img src="https://i.imgur.com/JpkfjIq.png" alt="Apply" width="70"/></a> | 3d |
